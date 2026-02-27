@@ -67,5 +67,11 @@ Web-based dashboard interface
 This project is open-source and licensed under the MIT License.
 
 👤 Author
-Agbozu Ebingiye Nelvin
+
+Name: Agbozu Ebingiye Nelvin
+
 Email: nelvinebingiye@gmail.com
+
+GitHub: *https://github.com/Nelvinebi
+
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
